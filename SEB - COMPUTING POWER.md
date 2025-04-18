@@ -21,8 +21,8 @@ To write a Python program to compute the power of a given number using an approp
 
 ### PROGRAM
 
-```python
-base = int(input("Enter the base number: "))
-exp = int(input("Enter the exponent: "))
-res = pow(base, exp)
-print(f"Power of the given number is: {res}")
+```
+```
+### OUTPUT
+
+### RESULT
