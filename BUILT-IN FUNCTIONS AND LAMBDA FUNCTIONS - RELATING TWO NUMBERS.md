@@ -25,6 +25,16 @@ To write a Python program to check the relation between two numbers — whether 
 
 ```
 
+```
+
 ### OUTPUT
 
+```
+
+```
+
 ### RESULT
+
+```
+
+```
