@@ -27,9 +27,11 @@ To create a Python program for printing `n` natural numbers using a `for` loop.
 
 ```
 ### OUTPUT
+```
 
-
-
-
+```
 ### RESULT
+```
+
+```
 
