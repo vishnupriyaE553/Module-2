@@ -1,4 +1,4 @@
-# Exp.No:9  
+# Exp.No:2d
 ## LOOPING PATTERNS - PRINTING PATTERN
 
 ---
