@@ -1,4 +1,4 @@
-# Exp.No:10  
+# Exp.No:2e  
 ## SEB - COMPUTING POWER
 
 ---
