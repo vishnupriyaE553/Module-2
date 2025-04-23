@@ -1,4 +1,4 @@
-# Exp. No: 6  
+# Exp. No: 2a  
 ## ITERATIVE STATEMENTS – PRINTING N NATURAL NUMBERS
 
 ###  Aim
