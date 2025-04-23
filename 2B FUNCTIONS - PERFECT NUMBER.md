@@ -1,4 +1,4 @@
-# Exp.No:7  
+# Exp.No:2b  
 ## FUNCTIONS - PERFECT NUMBER
 
 ### AIM  
